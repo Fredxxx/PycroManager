@@ -1,0 +1,118 @@
+2023-05-24T09:32:16.053313 tid2904 [IFO,LogManager] Enabled primary log file C:\Program Files\Micro-Manager-2.0_20230524\CoreLogs\CoreLog20230524T093216_pid4800.txt
+2023-05-24T09:32:16.053400 tid2904 [IFO,App] User: FredPC
+2023-05-24T09:32:16.053571 tid2904 [IFO,App] Host: DESKTOP-9CIPI35
+2023-05-24T09:32:16.053581 tid2904 [IFO,App] MM Studio version: 2.0.1 20230523
+2023-05-24T09:32:16.053610 tid2904 [IFO,App] MMCore version 10.4.0
+2023-05-24T09:32:16.053619 tid2904 [IFO,App] Device API version 71, Module API version 10
+2023-05-24T09:32:16.053626 tid2904 [IFO,App] Operating System: Windows 10 (amd64) 10.0
+2023-05-24T09:32:16.053635 tid2904 [IFO,App] JVM: Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_152, 64-bit
+2023-05-24T09:32:16.148745 tid23628 [IFO,App] Found plugin org.micromanager.display.inspector.internal.panels.intensity.IntensityInspectorPanelPlugin@64023f36
+2023-05-24T09:32:16.149312 tid23628 [IFO,App] Found plugin org.micromanager.display.inspector.internal.panels.metadata.SummaryMetadataInspectorPanelPlugin@165482df
+2023-05-24T09:32:16.149368 tid23628 [IFO,App] Found plugin org.micromanager.display.inspector.internal.panels.metadata.PlaneMetadataInspectorPanelPlugin@e8e0fd9
+2023-05-24T09:32:16.149406 tid23628 [IFO,App] Found plugin org.micromanager.display.inspector.internal.panels.comments.CommentsInspectorPanelPlugin@3abcb1cc
+2023-05-24T09:32:16.149721 tid23628 [IFO,App] Found plugin org.micromanager.display.overlay.internal.overlays.PatternOverlayPlugin@44a76af9
+2023-05-24T09:32:16.149826 tid23628 [IFO,App] Found plugin org.micromanager.display.inspector.internal.panels.overlays.OverlaysInspectorPanelPlugin@1bca8170
+2023-05-24T09:32:16.149909 tid23628 [IFO,App] Found plugin org.micromanager.display.overlay.internal.overlays.ScaleBarPlugin@5848c006
+2023-05-24T09:32:16.149941 tid23628 [IFO,App] Found plugin org.micromanager.display.overlay.internal.overlays.TextOverlayPlugin@28c46de7
+2023-05-24T09:32:16.149990 tid23628 [IFO,App] Found plugin org.micromanager.display.overlay.internal.overlays.TimestampPlugin@574b2aa4
+2023-05-24T09:32:16.150084 tid23628 [IFO,App] Found plugin org.micromanager.acquisition.internal.DefaultMDAPlugin@18c5f03c
+2023-05-24T09:32:16.150207 tid23628 [IFO,App] Found plugin org.micromanager.display.internal.gearmenu.CopyToImageJItem@6135bd2
+2023-05-24T09:32:16.150270 tid23628 [IFO,App] Found plugin org.micromanager.display.internal.gearmenu.ExportImagesItem@d33a5a2
+2023-05-24T09:32:16.150312 tid23628 [IFO,App] Found plugin org.micromanager.display.internal.gearmenu.LineProfileItem@3a3a0aa
+2023-05-24T09:32:16.151004 tid23628 [IFO,App] Found plugin org.micromanager.quickaccess.internal.controls.AutofocusButtons@15738c6d
+2023-05-24T09:32:16.151110 tid23628 [IFO,App] Found plugin org.micromanager.quickaccess.internal.controls.CloseAllButton@3276404e
+2023-05-24T09:32:16.151391 tid23628 [IFO,App] Found plugin org.micromanager.quickaccess.internal.controls.ExposureTime@67011a85
+2023-05-24T09:32:16.152166 tid23628 [IFO,App] Found plugin org.micromanager.quickaccess.internal.controls.LiveButton@163b4daf
+2023-05-24T09:32:16.152778 tid23628 [IFO,App] Found plugin org.micromanager.quickaccess.internal.controls.MDAButtons@1bac1c
+2023-05-24T09:32:16.153142 tid23628 [IFO,App] Found plugin org.micromanager.quickaccess.internal.controls.PresetButton@1ec2b37f
+2023-05-24T09:32:16.153202 tid23628 [IFO,App] Found plugin org.micromanager.quickaccess.internal.controls.RefreshButton@43e487f7
+2023-05-24T09:32:16.153474 tid23628 [IFO,App] Found plugin org.micromanager.quickaccess.internal.controls.SavedMDAButton@7f78cebb
+2023-05-24T09:32:16.153831 tid23628 [IFO,App] Found plugin org.micromanager.quickaccess.internal.controls.ScriptButton@6eeffc9d
+2023-05-24T09:32:16.153940 tid23628 [IFO,App] Found plugin org.micromanager.quickaccess.internal.controls.ShutterControl@57dbeaed
+2023-05-24T09:32:16.154242 tid23628 [IFO,App] Found plugin org.micromanager.quickaccess.internal.controls.SnapButton@97d4285
+2023-05-24T09:32:16.154366 tid23628 [IFO,App] Found plugin org.micromanager.quickaccess.internal.controls.TextLabel@1795dc5
+2023-05-24T09:32:16.154460 tid23628 [IFO,App] Plugin loading took 313ms
+2023-05-24T09:32:16.154484 tid2904 [IFO,App] Finished waiting for plugins to load
+2023-05-24T09:32:17.923837 tid2904 [IFO,Core] Did unload all devices
+2023-05-24T09:32:17.924164 tid2904 [IFO,Core] Did unload all devices
+2023-05-24T09:32:17.925399 tid2904 [IFO,Core] Did load device DHub from DemoCamera; label = DHub
+2023-05-24T09:32:17.925460 tid2904 [IFO,Core] Did load device DCam from DemoCamera; label = Camera
+2023-05-24T09:32:17.925470 tid2904 [IFO,Core] Did load device DWheel from DemoCamera; label = Dichroic
+2023-05-24T09:32:17.925478 tid2904 [IFO,Core] Did load device DWheel from DemoCamera; label = Emission
+2023-05-24T09:32:17.925487 tid2904 [IFO,Core] Did load device DWheel from DemoCamera; label = Excitation
+2023-05-24T09:32:17.925498 tid2904 [IFO,Core] Did load device DObjective from DemoCamera; label = Objective
+2023-05-24T09:32:17.925508 tid2904 [IFO,Core] Did load device DStage from DemoCamera; label = Z
+2023-05-24T09:32:17.925514 tid2904 [IFO,Core] Did load device DLightPath from DemoCamera; label = Path
+2023-05-24T09:32:17.925524 tid2904 [IFO,Core] Did load device DXYStage from DemoCamera; label = XY
+2023-05-24T09:32:17.925532 tid2904 [IFO,Core] Did load device DShutter from DemoCamera; label = White Light Shutter
+2023-05-24T09:32:17.925538 tid2904 [IFO,Core] Did load device DAutoFocus from DemoCamera; label = Autofocus
+2023-05-24T09:32:17.925551 tid2904 [IFO,Core] Did load device DStateDevice from DemoCamera; label = LED
+2023-05-24T09:32:17.926590 tid2904 [IFO,Core] Did load device State Device Shutter from Utilities; label = LED Shutter
+2023-05-24T09:32:17.926612 tid2904 [IFO,Core] Did load device DHub from DemoCamera; label = DHub-1
+2023-05-24T09:32:17.926626 tid2904 [IFO,Core] Did load device DStage from DemoCamera; label = DStage
+2023-05-24T09:32:17.926691 tid2904 [IFO,Core] Will initialize 15 devices
+2023-05-24T09:32:17.926692 tid2904 [IFO,Core] Will initialize device DHub
+2023-05-24T09:32:17.926698 tid2904 [IFO,Core] Did initialize device DHub
+2023-05-24T09:32:17.926702 tid2904 [IFO,Core] Will initialize device Camera
+2023-05-24T09:32:17.926983 tid2904 [IFO,Core] Did initialize device Camera
+2023-05-24T09:32:17.926987 tid2904 [IFO,Core] Default camera set to Camera
+2023-05-24T09:32:17.926988 tid2904 [IFO,Core] Will initialize device Dichroic
+2023-05-24T09:32:17.927015 tid2904 [IFO,Core] Did initialize device Dichroic
+2023-05-24T09:32:17.927016 tid2904 [IFO,Core] Will initialize device Emission
+2023-05-24T09:32:17.927032 tid2904 [IFO,Core] Did initialize device Emission
+2023-05-24T09:32:17.927032 tid2904 [IFO,Core] Will initialize device Excitation
+2023-05-24T09:32:17.927046 tid2904 [IFO,Core] Did initialize device Excitation
+2023-05-24T09:32:17.927047 tid2904 [IFO,Core] Will initialize device Objective
+2023-05-24T09:32:17.927058 tid2904 [IFO,Core] Did initialize device Objective
+2023-05-24T09:32:17.927058 tid2904 [IFO,Core] Will initialize device Z
+2023-05-24T09:32:17.927065 tid2904 [IFO,Core] Did initialize device Z
+2023-05-24T09:32:17.927066 tid2904 [IFO,Core] Will initialize device Path
+2023-05-24T09:32:17.927069 tid2904 [IFO,Core] Did initialize device Path
+2023-05-24T09:32:17.927070 tid2904 [IFO,Core] Will initialize device XY
+2023-05-24T09:32:17.927072 tid2904 [IFO,Core] Did initialize device XY
+2023-05-24T09:32:17.927074 tid2904 [IFO,Core] Default xy stage set to XY
+2023-05-24T09:32:17.927080 tid2904 [IFO,Core] Will initialize device White Light Shutter
+2023-05-24T09:32:17.927084 tid2904 [IFO,Core] Did initialize device White Light Shutter
+2023-05-24T09:32:17.927085 tid2904 [IFO,Core] Default shutter set to White Light Shutter
+2023-05-24T09:32:17.927085 tid2904 [IFO,Core] Will initialize device Autofocus
+2023-05-24T09:32:17.927087 tid2904 [IFO,Core] Did initialize device Autofocus
+2023-05-24T09:32:17.927087 tid2904 [IFO,Core] Default autofocus set to Autofocus
+2023-05-24T09:32:17.927088 tid2904 [IFO,Core] Will initialize device LED
+2023-05-24T09:32:17.927103 tid2904 [IFO,Core] Did initialize device LED
+2023-05-24T09:32:17.927104 tid2904 [IFO,Core] Will initialize device LED Shutter
+2023-05-24T09:32:17.927155 tid2904 [IFO,Core] Did initialize device LED Shutter
+2023-05-24T09:32:17.927155 tid2904 [IFO,Core] Default shutter set to LED Shutter
+2023-05-24T09:32:17.927156 tid2904 [IFO,Core] Will initialize device DHub-1
+2023-05-24T09:32:17.927156 tid2904 [IFO,Core] Did initialize device DHub-1
+2023-05-24T09:32:17.927157 tid2904 [IFO,Core] Will initialize device DStage
+2023-05-24T09:32:17.927161 tid2904 [IFO,Core] Did initialize device DStage
+2023-05-24T09:32:17.927162 tid2904 [IFO,Core] Finished initializing 15 devices
+2023-05-24T09:32:17.927206 tid2904 [IFO,Core] Default camera set to Camera
+2023-05-24T09:32:17.927230 tid2904 [IFO,Core] Default shutter set to White Light Shutter
+2023-05-24T09:32:17.927238 tid2904 [IFO,Core] Default stage set to DStage
+2023-05-24T09:32:17.927856 tid2904 [IFO,Core] Did update system state cache
+2023-05-24T09:32:17.928396 tid2904 [IFO,Core] Channel group set to Channel
+2023-05-24T09:32:17.928591 tid2904 [IFO,Core] Did update system state cache
+2023-05-24T09:32:18.004913 tid2904 [IFO,App] Error: Unrecognized save mode 
+2023-05-24T09:32:18.004929 tid2904 [IFO,App] Error: Unrecognized save mode null
+2023-05-24T09:32:18.135836 tid2904 [IFO,App] EDTHangLogger: Started monitoring of EDT hangs
+                                   [       ] [heartbeat timeout = 4500 ms, hang check interval = 1000 ms]
+2023-05-24T09:32:18.340365 tid2904 [IFO,App] Rebuilding config group table
+2023-05-24T09:32:18.340843 tid2904 [IFO,App] Finished rebuilding config group table
+2023-05-24T09:32:18.348003 tid2904 [IFO,App] Startup script (C:\Program Files\Micro-Manager-2.0_20230524\MMStartup.bsh) not present
+2023-05-24T09:32:18.348019 tid2904 [IFO,App] Updating GUI; config pad = true; from cache = false
+2023-05-24T09:32:18.349917 tid2904 [IFO,Core] Default autofocus set to Autofocus
+2023-05-24T09:32:18.350234 tid2904 [IFO,Core] Did update system state cache
+2023-05-24T09:32:18.351387 tid2904 [IFO,App] Rebuilding config group table
+2023-05-24T09:32:18.351516 tid2904 [IFO,App] Finished rebuilding config group table
+2023-05-24T09:32:18.354183 tid2904 [IFO,App] Finished updating GUI
+2023-05-24T09:32:20.201581 tid15724 [IFO,dev:Camera] SeqAcquisition interrupted by the user
+2023-05-24T09:32:20.201584 tid15724 [IFO,dev:Camera] Sequence thread exiting
+2023-05-24T09:32:20.220485 tid2904 [IFO,App] Class: class org.micromanager.display.internal.displaywindow.DisplayController
+2023-05-24T09:32:20.220498 tid2904 [IFO,App] Classloader: ij.io.PluginClassLoader@5d740a0f
+2023-05-24T09:32:21.408876 tid15200 [IFO,dev:Camera] SeqAcquisition interrupted by the user
+2023-05-24T09:32:21.408877 tid15200 [IFO,dev:Camera] Sequence thread exiting
+2023-05-24T09:32:23.134115 tid11032 [IFO,App] Initialized ZMQ Server on port: 4827
+2023-05-24T09:32:38.921716 tid6204 [IFO,Core] Default stage set to DStage
+2023-05-24T09:32:39.789132 tid17492 [IFO,dev:Camera] Sequence thread exiting
+2023-05-24T09:32:46.105450 tid6204 [IFO,Core] Default stage set to DStage

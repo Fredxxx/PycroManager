@@ -1,0 +1,9 @@
+Pycro/__pycache__/
+Pycro/hardware/__pycache__/
+Pycro/softwareHelpers/__pycache__/
+Pycro/files/initFile.txt
+.idea
+Pycro/slmGUI.ui.autosave
+Pycro/mainGUI.ui.autosave
+Pycro/SLM2.tiff
+.DS_Store

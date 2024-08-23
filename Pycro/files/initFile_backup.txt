@@ -1,0 +1,127 @@
+{
+    "scan settings": {
+        "file path": "C:\\temp",
+        "file name": "scan",
+        "exposure time": "100.0",
+        "delay time after camera trigger": "12.0",
+        "delay time for hardware hook function": "0.0",
+        "time interval": "2.0",
+        "time interval unit": "ms",
+        "number of time steps": "3",
+        "live imaging active": "False",
+        "SLM active": "True",
+        "laser": {
+            "Laser 1 Power": "n/a",
+            "Laser 2 Power": "n/a",
+            "Laser 3 Power": "n/a",
+            "Laser 4 Power": "n/a",
+            "list of lasers": "[]"
+        },
+        "AOTF": {
+            "AOTF 1 transmission": "n/a",
+            "AOTF 2 transmission": "n/a",
+            "AOTF 3 transmission": "n/a",
+            "AOTF 4 transmission": "n/a"
+        },
+        "devices": {
+            "camera": "Camera",
+            "z stage": "[]"
+        },
+        "microscopy mode": "light sheet",
+        "order multidimensional acquisition": "tz",
+        "scan range [um]": "5.0",
+        "number of scan steps": "3",
+        "scan start position [um]": "0",
+        "scan end position [um]": "5.0",
+        "scan step size [um]": "2.5",
+        "pre scan stage position [um]": "0"
+    },
+    "light sheet": {
+        "galvo start position [um]": "-25.0",
+        "galvo end position [um]": "25.0",
+        "galvo current position [um]": "0.0",
+        "galvo freq [Hz]": "100",
+        "galvo swipe repetitions": "100",
+        "camera 2 exposure time [ms]": "100.0"
+    },
+    "advanced": {
+        "TTL trigger uptime [%]": "25",
+        "TTL trigger amplitude [V]": "5.0",
+        "TTL trigger digital event": "100"
+    },
+    "basics": {
+        "filepaths": {
+            "initialisation file": "files\\initFile.txt",
+            "look up table for stage 1": "files\\MIPOS100PL.txt",
+            "look up table for stage 2": "files\\MCL.txt",
+            "uManager config path": "MMConfig_demo.cfg"
+        },
+        "loaded devices": "['DHub', 'Camera', 'Dichroic', 'Emission', 'Excitation', 'Objective', 'Z', 'Path', 'XY', 'White Light Shutter', 'Autofocus', 'LED', 'LED Shutter', 'DHub-1', 'DStage', 'Core']",
+        "current working directory": "D:\\WorkStuff\\labA3Marc\\Pycro",
+        "micromanager directory": "\\uManager\\Micro-Manager-2.0_20230524",
+        "configuration file main": "\\uManager\\Micro-Manager-2.0_20230524\\MMConfig_demo.cfg",
+        "configuration file second cam": "\\uManager\\Micro-Manager-2.0_20230524\\MMConfig_demo.cfg",
+        "java port for main micromanager instance": "4827",
+        "java port for second cam micromanager instance": "4847"
+    },
+    "calibration": {
+        "analog output modulation": "5",
+        "name of analog output modulation": "Dev1/ao0",
+        "name of analog input monitor": "Dev1/ai0",
+        "save path of calibration file": "files\\calib.txt",
+        "minimum modulation voltage [V]": "0.0",
+        "maximum modulation voltage [V]": "10.0",
+        "minimum travel position [um]": "0.0",
+        "maximum travel position [um]": "150.0",
+        "travel accuracy [um]": "0.01"
+    },
+    "stageAO": "files\\MCL.txt",
+    "galvoAO": "files\\galvo.txt",
+    "dummyStage": "DStage",
+    "save path": "D:\\Fred\\temp",
+    "AOTF": {
+        "Ch1": "488nm",
+        "Ch2": "561nm"
+    },
+    "SLM": {
+        "general": {
+            "x offset": "600.0",
+            "y offset": "300.0",
+            "mode": "Bessel"
+        },
+        "mask": {
+            "outer radius": "125.0",
+            "inner radius": "75.0",
+            "roll off": "5.0"
+        },
+        "phase": {
+            "x angle": "1.41",
+            "x period": "10.0",
+            "x NA": "1.232",
+            "y angle": "2.82",
+            "y period": "5.0",
+            "y NA": "1.303",
+            "r angle": "0.7",
+            "r period": "20.0",
+            "r NA": "1.032",
+            "r radius Gauss": "150.0"
+        },
+        "advanced": {
+            "number of x pixel": "800",
+            "number of y pixel": "600",
+            "refractive index": "1.33",
+            "SLM pixel size [um]": "2.0",
+            "wavelength [um]": "0.492",
+            "focal length lens [mm]": "500.0",
+            "focal length objective [mm]": "5.0"
+        },
+        "Meelad": {
+            "delta y of two beams": "50.0",
+            "delta x of two beams": "0.0"
+        },
+        "waverfront correction 1": "files\\MCL.txt",
+        "waverfront correction 2": "files\\MCL.txt",
+        "maxPhase 1": "185",
+        "maxPhase 2": "222"
+    }
+}

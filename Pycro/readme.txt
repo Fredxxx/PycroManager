@@ -1,0 +1,1 @@
+tested with uManager 2.0.1 20230511 and pycromanager 0.27.5
